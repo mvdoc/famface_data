@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/xK/PJ/SHA256E-s55--70dd8a20c102b7c86faa2d6d0a447a082ba3c8cd6f240f10cc48d60f16694a63.txt/SHA256E-s55--70dd8a20c102b7c86faa2d6d0a447a082ba3c8cd6f240f10cc48d60f16694a63.txt
+47.4	0.1	1.0
+125.5	0.1	1.0
+167.8	0.1	1.0
+233.8	0.1	1.0

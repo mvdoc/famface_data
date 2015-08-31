@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/Q9/6g/SHA256E-s13--3a648c9a8df403bed3dcae4bed89445d63229b8d58faf557b551f34cc19993f7.txt/SHA256E-s13--3a648c9a8df403bed3dcae4bed89445d63229b8d58faf557b551f34cc19993f7.txt
+77.0	0.1	1.0

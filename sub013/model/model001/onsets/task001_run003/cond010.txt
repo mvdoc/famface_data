@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/gG/k5/SHA256E-s55--6ab00f43ed512b484ace9abd84a13a9618ad5f06c3269f44d80badb9371ea818.txt/SHA256E-s55--6ab00f43ed512b484ace9abd84a13a9618ad5f06c3269f44d80badb9371ea818.txt
+35.2	0.1	1.0
+125.2	0.1	1.0
+167.2	0.1	1.0
+263.2	0.1	1.0

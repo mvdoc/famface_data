@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/M8/J7/SHA256E-s55--b8db8296aba4daf859a6bbeed61b66fe5fd3fa05f034bc13a0fcfba8465643d0.txt/SHA256E-s55--b8db8296aba4daf859a6bbeed61b66fe5fd3fa05f034bc13a0fcfba8465643d0.txt
+46.0	1.5	1.0
+154.0	1.5	1.0
+160.0	1.5	1.0
+280.0	1.5	1.0

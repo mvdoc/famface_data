@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/W7/kG/SHA256E-s13--463c5f424ff4d2ebc6b4bbf9269380d16d219307c949be8f981964a8ac2c95f2.txt/SHA256E-s13--463c5f424ff4d2ebc6b4bbf9269380d16d219307c949be8f981964a8ac2c95f2.txt
+46.0	1.5	1.0

@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Zx/pJ/SHA256E-s54--5e5a77c52dbdf5f1dc5fad7f19cf3d8445c8d5477959460d3bb832bc22ba5ce5.txt/SHA256E-s54--5e5a77c52dbdf5f1dc5fad7f19cf3d8445c8d5477959460d3bb832bc22ba5ce5.txt
+89.5	0.1	1.0
+95.2	0.1	1.0
+173.5	0.1	1.0
+251.6	0.1	1.0

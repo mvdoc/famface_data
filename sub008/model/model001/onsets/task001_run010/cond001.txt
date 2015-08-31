@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/4M/18/SHA256E-s55--fab834b675dadfe4048b8aae4ec4e5d6337843f6c25ca178d3fa559ff112f162.txt/SHA256E-s55--fab834b675dadfe4048b8aae4ec4e5d6337843f6c25ca178d3fa559ff112f162.txt
+64.0	1.5	1.0
+118.0	1.5	1.0
+178.0	1.5	1.0
+268.0	1.5	1.0

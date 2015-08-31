@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/16/MX/SHA256E-s55--9507b64c7ed35bda5ab7019145f9985f8dfba1bbbbf42ba3b44d526935bcd1df.txt/SHA256E-s55--9507b64c7ed35bda5ab7019145f9985f8dfba1bbbbf42ba3b44d526935bcd1df.txt
+35.3	0.1	1.0
+125.4	0.1	1.0
+167.5	0.1	1.0
+263.4	0.1	1.0

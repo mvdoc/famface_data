@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/zz/vQ/SHA256E-s54--f9a655f10cc49dc165b4db8b52fd5ead11074f0707266e6672e60ec00179e37b.txt/SHA256E-s54--f9a655f10cc49dc165b4db8b52fd5ead11074f0707266e6672e60ec00179e37b.txt
+35.7	0.1	1.0
+59.3	0.1	1.0
+167.7	0.1	1.0
+263.5	0.1	1.0

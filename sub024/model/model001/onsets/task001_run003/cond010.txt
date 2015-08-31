@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/3Z/9M/SHA256E-s55--c5b2e5d1cae6c6f966925a6c184aeb4e8fc353b0f71947b93e0a49dc3b941d99.txt/SHA256E-s55--c5b2e5d1cae6c6f966925a6c184aeb4e8fc353b0f71947b93e0a49dc3b941d99.txt
+59.7	0.1	1.0
+132.1	0.1	1.0
+185.6	0.1	1.0
+264.0	0.1	1.0

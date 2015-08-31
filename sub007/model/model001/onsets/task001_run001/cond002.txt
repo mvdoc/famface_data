@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/VV/kq/SHA256E-s55--bfeeaed62b5478c980770f2a914501c1332bcd68e10404b9b35f72e92cd026ad.txt/SHA256E-s55--bfeeaed62b5478c980770f2a914501c1332bcd68e10404b9b35f72e92cd026ad.txt
+70.0	1.5	1.0
+136.0	1.5	1.0
+214.0	1.5	1.0
+274.0	1.5	1.0

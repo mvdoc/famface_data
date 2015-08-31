@@ -1,1 +1,7 @@
-../../../../../.git/annex/objects/FF/Kf/SHA256E-s97--e4a903d8dfc5b30d7f6f0b926ba3db8b286abccffcafa2232b6cdbd4c207b865.txt/SHA256E-s97--e4a903d8dfc5b30d7f6f0b926ba3db8b286abccffcafa2232b6cdbd4c207b865.txt
+35.2	0.1	1.0
+154.9	0.1	1.0
+160.6	0.1	1.0
+161.6	0.1	1.0
+240.9	0.1	1.0
+263.0	0.1	1.0
+287.5	0.1	1.0

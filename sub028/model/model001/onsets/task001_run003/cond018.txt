@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/kp/gk/SHA256E-s14--3de7467458df1b00a67ae79004d72140f7d8a318ab8da53ba37db5f944e0da3d.txt/SHA256E-s14--3de7467458df1b00a67ae79004d72140f7d8a318ab8da53ba37db5f944e0da3d.txt
+268.0	1.5	1.0

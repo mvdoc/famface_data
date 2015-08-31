@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/gW/pp/SHA256E-s41--7a945755dcfc74e0329a6c8232cce00418376f712fbd8da52b2d49733887edcb.txt/SHA256E-s41--7a945755dcfc74e0329a6c8232cce00418376f712fbd8da52b2d49733887edcb.txt
+41.5	0.1	1.0
+143.3	0.1	1.0
+269.2	0.1	1.0

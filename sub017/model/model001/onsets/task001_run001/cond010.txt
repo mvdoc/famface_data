@@ -1,1 +1,5 @@
-../../../../../.git/annex/objects/fF/Mx/SHA256E-s69--21cbb514dec3d3d278a53eaa60a64c95faaf5b3dfd3245e907aa64362449b416.txt/SHA256E-s69--21cbb514dec3d3d278a53eaa60a64c95faaf5b3dfd3245e907aa64362449b416.txt
+77.5	0.1	1.0
+107.2	0.1	1.0
+107.6	0.1	1.0
+167.7	0.1	1.0
+257.2	0.1	1.0

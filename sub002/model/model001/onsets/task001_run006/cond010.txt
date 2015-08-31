@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/38/Wx/SHA256E-s55--a5213c9cdcf1196c279a362262882aa4c5bb94cb84fe2b6ac7f41ffc54c29023.txt/SHA256E-s55--a5213c9cdcf1196c279a362262882aa4c5bb94cb84fe2b6ac7f41ffc54c29023.txt
+47.8	0.1	1.0
+155.4	0.1	1.0
+161.5	0.1	1.0
+239.4	0.1	1.0

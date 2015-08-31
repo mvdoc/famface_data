@@ -1,1 +1,2 @@
-../../../../../.git/annex/objects/xj/2v/SHA256E-s27--19bdc1d494aab502abfc0bf18e0f24c3b70be20d38f758d0e70d3e1484fdb38d.txt/SHA256E-s27--19bdc1d494aab502abfc0bf18e0f24c3b70be20d38f758d0e70d3e1484fdb38d.txt
+35.1	0.1	1.0
+263.1	0.1	1.0

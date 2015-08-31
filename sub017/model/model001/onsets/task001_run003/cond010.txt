@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/j3/Pq/SHA256E-s55--4ae772f1966edf84c660033c029e5217bbea02626d4c395016b14dbaf4af2eb3.txt/SHA256E-s55--4ae772f1966edf84c660033c029e5217bbea02626d4c395016b14dbaf4af2eb3.txt
+59.4	0.1	1.0
+131.5	0.1	1.0
+185.1	0.1	1.0
+263.1	0.1	1.0

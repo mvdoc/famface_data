@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/fW/3W/SHA256E-s42--78dfa14c7faa511ded260852a40b97c778c78ee0ce77e192ed26874a420ad253.txt/SHA256E-s42--78dfa14c7faa511ded260852a40b97c778c78ee0ce77e192ed26874a420ad253.txt
+132.3	0.1	1.0
+185.5	0.1	1.0
+263.3	0.1	1.0

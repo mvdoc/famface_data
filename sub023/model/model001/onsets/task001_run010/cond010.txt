@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/JW/Gx/SHA256E-s41--ec884f9f0dbf187eae5c1f62e09f5ed938bc941a8ec19c818455cb584da2bff8.txt/SHA256E-s41--ec884f9f0dbf187eae5c1f62e09f5ed938bc941a8ec19c818455cb584da2bff8.txt
+59.6	0.1	1.0
+185.5	0.1	1.0
+263.2	0.1	1.0

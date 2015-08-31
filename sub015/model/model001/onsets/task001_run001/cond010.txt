@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/MG/k0/SHA256E-s42--aeda3cad0fa00844606ade666b0cbff4e2e614f4de3956a541de3417e7c1eedc.txt/SHA256E-s42--aeda3cad0fa00844606ade666b0cbff4e2e614f4de3956a541de3417e7c1eedc.txt
+143.6	0.1	1.0
+203.9	0.1	1.0
+270.1	0.1	1.0

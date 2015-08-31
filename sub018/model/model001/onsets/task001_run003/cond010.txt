@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/m8/PZ/SHA256E-s55--a8312a25ffeae9b83b22e88851101f52b30cbbd2b310349bcdab3a318b8fc517.txt/SHA256E-s55--a8312a25ffeae9b83b22e88851101f52b30cbbd2b310349bcdab3a318b8fc517.txt
+59.9	0.1	1.0
+156.0	0.1	1.0
+161.8	0.1	1.0
+257.9	0.1	1.0

@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/j7/4Q/SHA256E-s55--9c90081fa83beab0a75956bf52025973b7200edb9cb0c57ce52ce7d1c9d93cf3.txt/SHA256E-s55--9c90081fa83beab0a75956bf52025973b7200edb9cb0c57ce52ce7d1c9d93cf3.txt
+59.6	0.1	1.0
+131.9	0.1	1.0
+185.5	0.1	1.0
+263.5	0.1	1.0

@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/w7/8J/SHA256E-s54--ad6a2ca5590dfe4e513512ef83441ddbd82dd3bce4548e3bd8958b60d039d203.txt/SHA256E-s54--ad6a2ca5590dfe4e513512ef83441ddbd82dd3bce4548e3bd8958b60d039d203.txt
+90.2	0.1	1.0
+96.1	0.1	1.0
+173.8	0.1	1.0
+252.1	0.1	1.0

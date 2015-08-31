@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/5z/g1/SHA256E-s55--2b09c6c83d59591023ca217d3a93981b3d3b8be8e56670af782abddfa54ee4bf.txt/SHA256E-s55--2b09c6c83d59591023ca217d3a93981b3d3b8be8e56670af782abddfa54ee4bf.txt
+35.3	0.1	1.0
+125.0	0.1	1.0
+167.1	0.1	1.0
+263.2	0.1	1.0

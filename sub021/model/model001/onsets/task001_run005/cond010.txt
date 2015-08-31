@@ -1,1 +1,2 @@
-../../../../../.git/annex/objects/vW/wZ/SHA256E-s27--a920d8c10a608bb071d0304c1e2b679a4a940e7ea30b7ba0dfe1363f691cc3b5.txt/SHA256E-s27--a920d8c10a608bb071d0304c1e2b679a4a940e7ea30b7ba0dfe1363f691cc3b5.txt
+41.6	0.1	1.0
+203.9	0.1	1.0

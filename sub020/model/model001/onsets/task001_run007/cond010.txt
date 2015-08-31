@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/WW/59/SHA256E-s13--99a81aea36c40090b58f7951f211de733efb963d10fd42e15428f7230aacad0d.txt/SHA256E-s13--99a81aea36c40090b58f7951f211de733efb963d10fd42e15428f7230aacad0d.txt
+41.8	0.1	1.0

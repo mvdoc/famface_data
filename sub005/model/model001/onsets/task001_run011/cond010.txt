@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/Kp/Wm/SHA256E-s41--7a3005cd0ef56273bb6e6b639c35cba0ceb03ddda831c28301c32cd39629321b.txt/SHA256E-s41--7a3005cd0ef56273bb6e6b639c35cba0ceb03ddda831c28301c32cd39629321b.txt
+77.9	0.1	1.0
+167.7	0.1	1.0
+257.4	0.1	1.0

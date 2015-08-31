@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/XM/Kg/SHA256E-s55--4998bdf384f86f67acf9ecc64a4f769c408cc8001af6e2a1fe11044004aab225.txt/SHA256E-s55--4998bdf384f86f67acf9ecc64a4f769c408cc8001af6e2a1fe11044004aab225.txt
+59.6	0.1	1.0
+131.7	0.1	1.0
+185.3	0.1	1.0
+263.5	0.1	1.0

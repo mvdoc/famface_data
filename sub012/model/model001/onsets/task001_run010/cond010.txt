@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/fV/xf/SHA256E-s41--fdb3457919089aaea7fbbb9244586109bea4801e63d4dc401a81475326febb09.txt/SHA256E-s41--fdb3457919089aaea7fbbb9244586109bea4801e63d4dc401a81475326febb09.txt
+77.5	0.1	1.0
+107.1	0.1	1.0
+167.5	0.1	1.0

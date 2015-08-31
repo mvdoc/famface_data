@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/WP/jV/SHA256E-s55--4f7c47f8235721ace8b65b930aaad715a6a3e9774bf639ea1ddabcbcdcee9516.txt/SHA256E-s55--4f7c47f8235721ace8b65b930aaad715a6a3e9774bf639ea1ddabcbcdcee9516.txt
+47.8	0.1	1.0
+150.1	0.1	1.0
+210.0	0.1	1.0
+270.6	0.1	1.0

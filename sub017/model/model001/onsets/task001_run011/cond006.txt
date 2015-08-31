@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/kk/P2/SHA256E-s55--3531d662e0c2de2ab817b25ae7f4df5b231e5160e07a4edb6a6b51a391cb1ddf.txt/SHA256E-s55--3531d662e0c2de2ab817b25ae7f4df5b231e5160e07a4edb6a6b51a391cb1ddf.txt
+34.0	1.5	1.0
+112.0	1.5	1.0
+184.0	1.5	1.0
+244.0	1.5	1.0

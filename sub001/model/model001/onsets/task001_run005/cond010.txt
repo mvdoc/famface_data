@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Wj/7Q/SHA256E-s55--9630ff155daa8f69d5cfac9d35acec7477513778dcec3c4cbfda9137892c9e5b.txt/SHA256E-s55--9630ff155daa8f69d5cfac9d35acec7477513778dcec3c4cbfda9137892c9e5b.txt
+78.2	0.1	1.0
+143.6	0.1	1.0
+203.1	0.1	1.0
+257.5	0.1	1.0

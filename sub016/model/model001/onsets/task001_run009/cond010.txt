@@ -1,1 +1,5 @@
-../../../../../.git/annex/objects/02/8v/SHA256E-s69--b1ea0410efb5754f07da48ce64721946c1ad194f1e08fea3faab4cb5a32a0e11.txt/SHA256E-s69--b1ea0410efb5754f07da48ce64721946c1ad194f1e08fea3faab4cb5a32a0e11.txt
+48.1	0.1	1.0
+155.9	0.1	1.0
+162.0	0.1	1.0
+174.3	0.1	1.0
+240.0	0.1	1.0

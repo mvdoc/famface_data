@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/wJ/jX/SHA256E-s14--df308e8bbf1be4740b8fea64e606c0b85cf08ae1c318595655b73e798a670bc4.txt/SHA256E-s14--df308e8bbf1be4740b8fea64e606c0b85cf08ae1c318595655b73e798a670bc4.txt
+107.8	0.1	1.0

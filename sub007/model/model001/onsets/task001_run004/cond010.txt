@@ -1,1 +1,5 @@
-../../../../../.git/annex/objects/Xk/Vx/SHA256E-s69--bc3de6f31c036ba04d05bae9052faff99de1b5f6ef8e0fc74bc48d7763dc3817.txt/SHA256E-s69--bc3de6f31c036ba04d05bae9052faff99de1b5f6ef8e0fc74bc48d7763dc3817.txt
+41.7	0.1	1.0
+143.2	0.1	1.0
+199.6	0.1	1.0
+203.6	0.1	1.0
+269.2	0.1	1.0

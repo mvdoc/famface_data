@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/2M/Q6/SHA256E-s14--d16394114e80d9d1d01eb9b4c82d892af1f3ec614bea2ea4e2a4e156c536adb0.txt/SHA256E-s14--d16394114e80d9d1d01eb9b4c82d892af1f3ec614bea2ea4e2a4e156c536adb0.txt
+184.0	1.5	1.0

@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Qf/X2/SHA256E-s55--874004a62fb9359c51d0d7919eba38cf3655f777bdd1c076bb4ccece50d2ee6a.txt/SHA256E-s55--874004a62fb9359c51d0d7919eba38cf3655f777bdd1c076bb4ccece50d2ee6a.txt
+35.7	0.1	1.0
+155.3	0.1	1.0
+161.8	0.1	1.0
+263.4	0.1	1.0

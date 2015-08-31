@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/FJ/38/SHA256E-s14--08cd08b87b5c7cb65e5e76a2d4e0f6b7613cd75b8bb9bef748a30ad461765fee.txt/SHA256E-s14--08cd08b87b5c7cb65e5e76a2d4e0f6b7613cd75b8bb9bef748a30ad461765fee.txt
+156.1	0.1	1.0

@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/jZ/Fq/SHA256E-s13--4e0d2162cb07ddd61532cf513e4fbaea81c6eab66e08667946e02ea4b220f976.txt/SHA256E-s13--4e0d2162cb07ddd61532cf513e4fbaea81c6eab66e08667946e02ea4b220f976.txt
+58.0	1.5	1.0

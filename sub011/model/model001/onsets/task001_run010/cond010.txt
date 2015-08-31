@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/2f/9v/SHA256E-s42--07fff21ebb8a6d6d69f2c0951fb747003ad8567e9f18958bc01ed5c9134fcc1c.txt/SHA256E-s42--07fff21ebb8a6d6d69f2c0951fb747003ad8567e9f18958bc01ed5c9134fcc1c.txt
+185.4	0.1	1.0
+204.2	0.1	1.0
+263.4	0.1	1.0

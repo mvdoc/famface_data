@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Ww/PJ/SHA256E-s55--16e09d77f6b769a0d316a2d9d2132bcc853fe7c14ab44c68b0b321fedc2d6e67.txt/SHA256E-s55--16e09d77f6b769a0d316a2d9d2132bcc853fe7c14ab44c68b0b321fedc2d6e67.txt
+70.0	1.5	1.0
+154.0	1.5	1.0
+160.0	1.5	1.0
+268.0	1.5	1.0

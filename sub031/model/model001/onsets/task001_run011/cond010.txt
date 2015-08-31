@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/1j/v1/SHA256E-s41--cb0584e1ffa5de70cac00a8f54225d3f1f1f32e0bcec3eb47d0b1aa3d5e17d6d.txt/SHA256E-s41--cb0584e1ffa5de70cac00a8f54225d3f1f1f32e0bcec3eb47d0b1aa3d5e17d6d.txt
+60.3	0.1	1.0
+155.8	0.1	1.0
+161.3	0.1	1.0

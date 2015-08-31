@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/9X/PZ/SHA256E-s40--80dba04136b2692ad6bec5035df390aef8a821ed0d2ac96a82356f1ead5a49b8.txt/SHA256E-s40--80dba04136b2692ad6bec5035df390aef8a821ed0d2ac96a82356f1ead5a49b8.txt
+89.3	0.1	1.0
+95.2	0.1	1.0
+251.6	0.1	1.0

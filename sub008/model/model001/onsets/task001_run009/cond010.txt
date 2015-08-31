@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/zP/VJ/SHA256E-s55--a3d71294a57b6c8578b5ba207b003c6ad02e83c2ebb934b4ba4196955fecb458.txt/SHA256E-s55--a3d71294a57b6c8578b5ba207b003c6ad02e83c2ebb934b4ba4196955fecb458.txt
+47.8	0.1	1.0
+155.7	0.1	1.0
+161.5	0.1	1.0
+239.6	0.1	1.0

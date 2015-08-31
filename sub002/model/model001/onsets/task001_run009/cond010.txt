@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Qj/XX/SHA256E-s55--0be0a28db0c64167a3841c65ca39f76aaa35f49e8d07abffd51ac90cbd5f5691.txt/SHA256E-s55--0be0a28db0c64167a3841c65ca39f76aaa35f49e8d07abffd51ac90cbd5f5691.txt
+41.6	0.1	1.0
+143.3	0.1	1.0
+203.8	0.1	1.0
+269.3	0.1	1.0

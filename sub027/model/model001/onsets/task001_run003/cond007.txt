@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Pq/k7/SHA256E-s55--25ecabf36d760d3ad1f1b0d8c9242310b9de4ec098862de01fec8522d04ad867.txt/SHA256E-s55--25ecabf36d760d3ad1f1b0d8c9242310b9de4ec098862de01fec8522d04ad867.txt
+76.0	1.5	1.0
+106.0	1.5	1.0
+196.0	1.5	1.0
+274.0	1.5	1.0

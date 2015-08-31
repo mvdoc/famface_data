@@ -1,1 +1,1 @@
-../../../../../.git/annex/objects/Ff/0F/SHA256E-s14--9ab0938376f1e0d8a770f37e92c5114f4f4bad4e176fd1c4692db33691cb26a1.txt/SHA256E-s14--9ab0938376f1e0d8a770f37e92c5114f4f4bad4e176fd1c4692db33691cb26a1.txt
+270.3	0.1	1.0

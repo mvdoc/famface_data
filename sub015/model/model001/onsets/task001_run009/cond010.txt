@@ -1,1 +1,3 @@
-../../../../../.git/annex/objects/QZ/75/SHA256E-s41--aff77ace83ebc063959f7eed8165899af6575647e22846d7f16ac96b877a30ec.txt/SHA256E-s41--aff77ace83ebc063959f7eed8165899af6575647e22846d7f16ac96b877a30ec.txt
+47.3	0.1	1.0
+149.6	0.1	1.0
+269.6	0.1	1.0

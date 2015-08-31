@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/kJ/4F/SHA256E-s55--a87071c90e73beb50668851f7b57c5ef0b869e588e28e11b03c687eeee3cfd6c.txt/SHA256E-s55--a87071c90e73beb50668851f7b57c5ef0b869e588e28e11b03c687eeee3cfd6c.txt
+47.5	0.1	1.0
+149.6	0.1	1.0
+209.6	0.1	1.0
+269.8	0.1	1.0

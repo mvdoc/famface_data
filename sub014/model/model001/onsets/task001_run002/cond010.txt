@@ -1,1 +1,5 @@
-../../../../../.git/annex/objects/8Q/xQ/SHA256E-s68--386df8ecbd1f10b851ebabce031732e1fff8431e86002a935cb425e0c46642fc.txt/SHA256E-s68--386df8ecbd1f10b851ebabce031732e1fff8431e86002a935cb425e0c46642fc.txt
+89.3	0.1	1.0
+95.6	0.1	1.0
+173.6	0.1	1.0
+251.7	0.1	1.0
+258.4	0.1	1.0

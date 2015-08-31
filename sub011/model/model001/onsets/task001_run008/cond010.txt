@@ -1,1 +1,6 @@
-../../../../../.git/annex/objects/27/2w/SHA256E-s83--0fce68992a5a3aa4ff7b5bbe23a24d40bbd0727bfa8e040d1418a6af1f21d0c8.txt/SHA256E-s83--0fce68992a5a3aa4ff7b5bbe23a24d40bbd0727bfa8e040d1418a6af1f21d0c8.txt
+35.6	0.1	1.0
+155.5	0.1	1.0
+161.7	0.1	1.0
+209.7	0.1	1.0
+263.3	0.1	1.0
+288.2	0.1	1.0

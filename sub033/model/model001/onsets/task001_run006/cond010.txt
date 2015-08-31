@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/k2/6G/SHA256E-s54--352fc05cc2210e332713d051903f3b95bd9cee30bcf92206bc56f33d5acea55c.txt/SHA256E-s54--352fc05cc2210e332713d051903f3b95bd9cee30bcf92206bc56f33d5acea55c.txt
+89.2	0.1	1.0
+95.3	0.1	1.0
+173.6	0.1	1.0
+251.7	0.1	1.0

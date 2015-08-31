@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Xp/J2/SHA256E-s55--c1f7d6316339dc233b6f06cef4bea59510aaa1768a94d2da51a04a4c884a9814.txt/SHA256E-s55--c1f7d6316339dc233b6f06cef4bea59510aaa1768a94d2da51a04a4c884a9814.txt
+82.0	1.5	1.0
+142.0	1.5	1.0
+184.0	1.5	1.0
+286.0	1.5	1.0

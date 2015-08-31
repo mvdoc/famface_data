@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/X6/MP/SHA256E-s55--c84b4e58a43cb1fb908a6253bbfbc33b0591eb71bcee136644ae1e05fb895234.txt/SHA256E-s55--c84b4e58a43cb1fb908a6253bbfbc33b0591eb71bcee136644ae1e05fb895234.txt
+35.6	0.1	1.0
+155.7	0.1	1.0
+161.6	0.1	1.0
+263.4	0.1	1.0

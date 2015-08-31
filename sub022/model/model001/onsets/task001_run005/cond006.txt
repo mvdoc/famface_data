@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/pk/vW/SHA256E-s54--94e8c68e00be15a11950d55ddbb202e08227d13a3b21cfb3ac85d04529a00c2e.txt/SHA256E-s54--94e8c68e00be15a11950d55ddbb202e08227d13a3b21cfb3ac85d04529a00c2e.txt
+88.0	1.5	1.0
+94.0	1.5	1.0
+172.0	1.5	1.0
+280.0	1.5	1.0

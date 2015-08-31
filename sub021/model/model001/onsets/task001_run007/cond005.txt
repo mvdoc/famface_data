@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/W8/Kx/SHA256E-s55--b23190a70a32a8738c610a90b03a0cdea24a64c00fd5c47d9f53dcd59e1af79a.txt/SHA256E-s55--b23190a70a32a8738c610a90b03a0cdea24a64c00fd5c47d9f53dcd59e1af79a.txt
+34.0	1.5	1.0
+100.0	1.5	1.0
+166.0	1.5	1.0
+232.0	1.5	1.0

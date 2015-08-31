@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/gJ/gv/SHA256E-s55--e843ccbf3e28a4f4d3df9d0e8dd0598ecd22d1fff81308a12d5a6a2b8901dc32.txt/SHA256E-s55--e843ccbf3e28a4f4d3df9d0e8dd0598ecd22d1fff81308a12d5a6a2b8901dc32.txt
+35.7	0.1	1.0
+125.3	0.1	1.0
+167.2	0.1	1.0
+263.3	0.1	1.0

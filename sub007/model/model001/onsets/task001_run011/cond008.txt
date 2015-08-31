@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/PG/vj/SHA256E-s55--62b78a0c50f3a5c0dc8818653d1d194ac1a8b385aacb85c299f195c40e8df393.txt/SHA256E-s55--62b78a0c50f3a5c0dc8818653d1d194ac1a8b385aacb85c299f195c40e8df393.txt
+28.0	1.5	1.0
+148.0	1.5	1.0
+214.0	1.5	1.0
+280.0	1.5	1.0

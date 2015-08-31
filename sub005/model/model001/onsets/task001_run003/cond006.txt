@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/kW/kX/SHA256E-s55--9bbeb13eebb1957dcd3fa4ca7a84cecc97aa322284ad8af33fcd5414eca1877e.txt/SHA256E-s55--9bbeb13eebb1957dcd3fa4ca7a84cecc97aa322284ad8af33fcd5414eca1877e.txt
+28.0	1.5	1.0
+142.0	1.5	1.0
+202.0	1.5	1.0
+250.0	1.5	1.0

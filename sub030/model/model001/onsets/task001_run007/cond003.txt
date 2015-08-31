@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Zk/gk/SHA256E-s55--b96b8eb71f1a0364de8c75272fd2bd58de7cf36206bca98fad13805ac0a50215.txt/SHA256E-s55--b96b8eb71f1a0364de8c75272fd2bd58de7cf36206bca98fad13805ac0a50215.txt
+28.0	1.5	1.0
+100.0	1.5	1.0
+172.0	1.5	1.0
+250.0	1.5	1.0

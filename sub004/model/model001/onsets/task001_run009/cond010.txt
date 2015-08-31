@@ -1,1 +1,4 @@
-../../../../../.git/annex/objects/Kw/z2/SHA256E-s55--6214acfe1e01e38ee64b373ee42b73f24d603624c968b431cca56f4f7c850ada.txt/SHA256E-s55--6214acfe1e01e38ee64b373ee42b73f24d603624c968b431cca56f4f7c850ada.txt
+35.2	0.1	1.0
+155.0	0.1	1.0
+161.6	0.1	1.0
+263.1	0.1	1.0
