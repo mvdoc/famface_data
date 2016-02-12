@@ -1,0 +1,10 @@
+,arousal_scale,attractiveness_scale,familiarity_questions,personality_similarity_scale,physical_similarity_scale,trustworthiness_scale,valence_scale,relationship_w_friends_question1,relationship_w_friends_question2,relationship_w_friends_question3,relationship_w_friends_question4,relationship_w_friends_question5,relationship_w_friends_question6,relationship_w_friends_question7,relationship_w_friends_question8,relationship_w_friends_question9
+control1,3,4,0,3,2,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+control2,2,2,0,2,3,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+control3,2,4,0,4,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+control4,2,2,0,2,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+friend1,3,3,3,3,2,3,2,0.0,3.0,2.0,5.0,1.0,3.0,3.0,3.0,2.0
+friend2,3,2,4,4,3,3,2,1.0,5.0,3.0,4.0,2.0,3.0,4.0,4.0,3.0
+friend3,2,2,4,3,4,3,2,3.0,4.0,4.0,4.0,2.0,4.0,4.0,4.0,2.0
+friend4,3,3,4,4,3,3,2,3.0,5.0,4.0,3.0,3.0,4.0,4.0,4.0,4.0
+self,2,2,5,5,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
