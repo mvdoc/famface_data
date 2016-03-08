@@ -1,2 +1,3 @@
 task001 subjects_all ['all'] 1
 task001 subjects_ok2 ['ok'] 1
+task001 subjects_subset ['subset'] 1
