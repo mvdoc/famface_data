@@ -1,0 +1,3 @@
+[submodule "scripts/mridefacer"]
+	path = scripts/mridefacer
+	url = https://github.com/yarikoptic/mridefacer
