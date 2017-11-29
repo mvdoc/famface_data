@@ -29,5 +29,25 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "type": "Dataset"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
+    "author": [
+      "Matteo Visconti di Oleggio Castello",
+      "Yaroslav O. Halchenko",
+      "J. Swaroop Guntupalli",
+      "Jason D. Gors",
+      "M. Ida Gobbini"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "license": "PDDL",
+    "name": "The neural representation of personally familiar and unfamiliar faces in the distributed system for face perception"
   }
 ]
