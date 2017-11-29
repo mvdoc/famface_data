@@ -1,0 +1,33 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "0a17f3cb-49df-47fe-a68a-001a4a8fe0b2",
+        "description": "contematto@head1:/data/famface/bids"
+      },
+      {
+        "@id": "55bb55bc-52c0-4790-b344-46036c1fc7db",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/gobbini/famface/data"
+      },
+      {
+        "@id": "5df2aa82-b0d8-4c33-b566-c7daaf8d6a81",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/gobbini/famface/data"
+      },
+      {
+        "@id": "a994004d-170d-4d96-8d6e-f47366963305",
+        "description": "yoh@head1:/data/famface/openfmri/data"
+      },
+      {
+        "@id": "bd0cc375-643c-4713-83f2-f88269cab01b",
+        "description": "contematto@head1:/data/famface/bids"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "type": "Dataset"
+  }
+]
